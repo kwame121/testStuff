@@ -1,0 +1,22 @@
+{
+  "name": "actual_project",
+  "version": "1.0.0",
+  "description": "project start i guess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwame121/testStuff.git"
+  },
+  "author": "Kwame Adaboh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwame121/testStuff/issues"
+  },
+  "homepage": "https://github.com/kwame121/testStuff#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
